@@ -53,8 +53,7 @@ print("Predicted Classes:", [1 if i > 0.5 else 0 for i in predictions])
 ```
 
 ## Output:
-<img width="702" height="99" alt="Screenshot 2026-04-30 143140" src="https://github.com/user-attachments/assets/d14b1759-59af-481b-8992-ee7ffe59a69b" />
-
+<img width="1907" height="985" alt="image" src="https://github.com/user-attachments/assets/f8e34982-0538-43db-9165-15d887928307" />
 
 
 ## Result:
